@@ -1,0 +1,2 @@
+# Comments on: Automated Speech Recognition
+[Jurafsky, Daniel & James H. Martin.  2017 (3rd Edition).  Speech and Language Processing.  Singapore: Pearson Education, Inc.: Selections from Chapter 9, “Automated Speech Recognition”, 291-312.](('https://canvas.uchicago.edu/courses/13021/files/1170275/download?wrap=1',))
